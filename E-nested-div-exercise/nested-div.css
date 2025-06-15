@@ -1,0 +1,57 @@
+
+.c1,.c2,.c3{
+    display: inline-block;
+    box-shadow: 0 0 5px gray;
+    width: 200px;
+    margin-left: 25px;
+    padding-bottom: 10px;
+    
+}
+.profile-pic{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+.photo{
+    width: 35px;
+    height: 35px;
+    object-fit: cover;
+    border-radius:50%;
+    vertical-align: middle;
+    margin-left: 7px;
+}
+.a,.b{
+    display: inline-block;
+    margin-bottom: 10px;
+}
+.info{
+    margin: 0;
+    vertical-align: middle;
+    border: none;
+    font-size: 17px;
+    color: gray;
+    margin-left: 5px;
+    
+    
+}
+.name{
+    margin: 0;
+    margin-top: 10px;
+    margin-bottom: 7px;
+    margin-left: 7px;
+    font-weight: bolder;
+    font-size: 22px;
+}
+.but{
+    background-color:rgb(29, 161, 242) ;
+    border: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    border-radius: 5px;
+    font-size: 14px;
+    margin-left: 7px;
+}
+
