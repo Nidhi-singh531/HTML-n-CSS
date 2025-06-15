@@ -1,0 +1,39 @@
+
+.b{
+    width:570px;
+    border-radius: 20px;
+    padding-left: 15px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 50px;
+    text-align: left;
+    border: none;
+    box-shadow: 0 0 5px gray;
+    background-color: white;
+    color: gray;
+    font-size: 14px;
+}
+.bu{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px; 
+    margin-right: 20px;
+    border: none;
+}
+.bu1{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+}
+.pic{
+width: 300px;
+margin-top: 80px;
+margin-bottom: 5px;
+}
+div{
+    text-align: center;
+}
