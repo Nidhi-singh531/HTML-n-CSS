@@ -1,14 +1,4 @@
-/* button{
-    background-color: #545454;
-    color: white;
-    border: solid;
-    border-color: black; 
-    height: 28px;
-    width: 100px;
-} */
-/* body{
-   background-image: linear-gradient(to right,black,#737373);
-} */
+
  .first{
     background-color: black;
     border: none;
@@ -53,9 +43,7 @@
      box-shadow: 5px 5px 10px grey;
 
  }
- /* .th:hover{
 
- } */
  .th:active{
     margin-top: 5px;
     margin-left: 15px;
